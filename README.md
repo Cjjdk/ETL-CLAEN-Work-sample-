@@ -1,2 +1,2 @@
 # ETL-CLAEN-Work-sample-
-Ths file contains file related to cleaning task 
+Ths file contains work sample  file related to cleaning task 
